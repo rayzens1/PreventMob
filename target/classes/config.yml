@@ -1,0 +1,5 @@
+# Liste des mobs qui ne doivent pas apparaître
+disabled-mobs:
+  - ZOMBIE
+  - SKELETON
+  - CREEPER

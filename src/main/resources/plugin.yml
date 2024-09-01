@@ -1,0 +1,7 @@
+name: PreventMob
+version: '${project.version}'
+main: fr.preventmob.PreventMob
+api-version: '1.20'
+commands:
+  reloadconfig:
+    description: Reloads the plugin configuration
